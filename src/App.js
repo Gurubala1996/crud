@@ -1,12 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-     hi
-    </div>
-  );
-}
+// import './App.css';
 
-export default App;
+
+// import Crud from './components/Crud';
+// import { Status } from './components/Status';
+// function App() {
+//   return (
+//     <div className="App">
+//        <Crud/>
+//        <Status/>
+
+//     </div>
+//   );
+// }
+
+// export default App;

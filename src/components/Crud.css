@@ -1,0 +1,58 @@
+.box{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box table{
+    border: 1px solid black;
+    width:80%;
+   
+}
+
+
+tr,th,td{
+    border: 1px solid black;
+}
+.eye{
+
+    color:red;
+    cursor: pointer;
+}
+.update{
+  border-radius: 30px;
+  background-color: peru;
+  color:black;
+  cursor: pointer;
+}
+.delete{
+    border-radius: 30px;
+    background-color: magenta;
+    color:black;
+    cursor: pointer;
+}
+.updates{
+    cursor: pointer;
+    background-color:floralwhite;
+    border-radius: 30px;
+}
+.first{
+    background-color: orange;
+    width:100%;
+    text-align: center;
+
+  
+}
+.add{
+    background-color: floralwhite;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.forms{
+    background-color: springgreen;
+    width:100%;
+    text-align: center;
+
+}
